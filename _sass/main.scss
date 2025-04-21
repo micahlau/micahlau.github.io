@@ -1,0 +1,138 @@
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+  max-width: 575px;
+}
+
+.fs-4 {
+  font-size: 1.08em !important;
+}
+
+.h1, h1, h2, h3 {
+  font-size: 1.2em !important;
+  font-weight: bold;
+}
+
+body {
+  font-family: Georgia, serif;
+  line-height: 1.55;
+}
+
+p {
+  margin-bottom: 25px;
+  font-size: 1.08em !important;
+}
+
+table {
+  @extend .table;
+  @extend .table-striped;
+
+}
+
+blockquote {
+  @extend .blockquote;
+}
+
+img {
+  @extend .img-fluid;
+  margin-top: 25px;
+  margin-bottom: 1rem; 
+}
+
+img + em {
+  display: block; 
+  text-align: center;
+}
+
+.footnotes {
+  font-size: 0.85em !important;
+  margin-top: 5rem;
+  padding-top: 1.5rem; 
+  border-top: 2px solid rgba(0, 0, 0, 0.3);
+    @media (prefers-color-scheme: dark) {
+    border-top: 2px solid #444;
+  }
+}
+
+.navbar {
+  margin-bottom: 2rem;
+  border-bottom: 0.125rem solid hsl(0, 0%, 30%);
+}
+
+.archive-year {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.archive-date {
+  float: right;
+  margin-left: 1rem;
+}
+
+.archive-item {
+  margin-bottom: 0.5rem;
+}
+
+.footer-container {
+  text-align: center;
+}
+
+.footer-icons {
+  width: 1.25rem;
+  height: 1.25rem;
+  margin-right: 0.5rem;
+}
+
+.footer-icon-links {
+  text-decoration: none;
+  color: #212529;
+}
+
+.footer-icon-links:hover,
+.footer-icon-links:focus {
+  text-decoration: none;
+  color: #212529;
+}
+
+.archive-title {
+  color: #212529;
+}
+
+.highlight {
+  background-color: #272822;
+}
+
+pre.highlight {
+  padding: 1rem;
+}
+
+.dark-avatar {
+  display: none !important;
+}
+
+.light-avatar,
+.dark-avatar {
+  margin-right: 0.25rem !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .footer-icon-links {
+    text-decoration: none;
+    color: #e1e1e1;
+  }
+
+  .footer-icon-links:hover,
+  .footer-icon-links:focus {
+    text-decoration: none;
+    color: #e1e1e1;
+  }
+
+  .archive-title {
+    color: #e1e1e1;
+  }
+
+  .light-avatar {
+    display: none !important;
+  }
+  .dark-avatar {
+    display: inline-block !important;
+  }
+}
