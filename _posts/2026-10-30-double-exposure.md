@@ -3,7 +3,7 @@ layout: post
 title: "#4: Double Exposure"
 ---
 
-Over the past month, I shot an old roll of Fujifilm Superia dug up from a dresser in my childhood room, taking photos around my apartment every morning just to hear the shutter snap and to feel the tension of the advance lever, expecting no good results. Knowing the film was surely heat-damaged and would give faded, grainy images, I took pictures of the daily scenes of home – dishes in the sink, view out the window, my work desk or coffee cup, bedroom full of afternoon sun – a daily photojournal.  
+Over the past month, I shot an old roll of Fujifilm Superia dug up from a dresser in my childhood room, taking photos around my apartment every morning just to hear the shutter snap and to feel the tension of the advance lever, expecting no good results. Knowing the film was surely heat-damaged and would give faded, grainy images, I took pictures of uneventful scenes at home – dishes in the sink, view out the window, my work desk or coffee cup, bedroom full of afternoon sun – a daily photojournal. 
 
 Turns out the film had been shot once before. Every photograph was now a double exposure, light from the present superimposed upon light from the past, memory into memory. 
 
@@ -12,7 +12,7 @@ On a family trip to Japan in 2009, I took my grandfather's Canon AE-1 and could 
 ![](https://images.micahlau.com/2026-10-30/1.webp)
 ![](https://images.micahlau.com/2026-10-30/2.webp)
 
-One image shook me. My father, his hair still black and his face full, looks into the lens as we wait in a train station. My mother of two decades ago has been veiled, smiling, by the bright Honolulu skyline of today. Behind them, someone with a large ring on their index finger manipulates a flip phone, waiting for the train. 
+One image shook me. My father, his hair still black and his face full, looks into the lens as we wait in a train station. My mother of two decades ago has been veiled, smiling, by the bright Honolulu skyline of today. Behind them, someone with a large ring or perhaps a bandage on their index finger manipulates a flip phone, waiting for the train. 
 
 ![](https://images.micahlau.com/2026-10-30/3.webp)
 
